@@ -2,6 +2,7 @@
 
 
 1st 
+
 Given a list of numbers, return whether any two sums to k.
 For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 Bonus: Can you do this in one pass?
@@ -10,6 +11,7 @@ Bonus: Can you do this in one pass?
 
 
 2nd
+
 This problem was asked by Uber.
 Given an array of integers, return a new array such that each element at index i of the new array
 is the product of all the numbers in the original array except the one at i.
@@ -21,6 +23,7 @@ Follow-up: what if you can't use division?
 
 
 3rd
+
 This problem was asked by Google.
 Given the root to a binary tree, implement serialize(root), which serializes the tree into a string,
 and deserialize(s), which deserializes the string back into the tree.
@@ -29,6 +32,7 @@ and deserialize(s), which deserializes the string back into the tree.
 
 
 4th
+
 This problem was asked by Nvidia.
 Given an array of integers, find the first missing positive integer in linear time and constant
 space. In other words, find the lowest positive integer that does not exist in the array. The array
@@ -40,6 +44,7 @@ You can modify the input array in-place.
 
 
 5th
+
 This problem was asked by Jane Street.
 cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that
 pair. For example, car(cons(3, 4)) returns 3, and cdr(cons(3, 4)) returns 4.
